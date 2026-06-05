@@ -27,9 +27,11 @@ This project analyzes retail sales performance using SQL and Power BI. The dashb
 
 ## Dashboard Preview
 
-https://github.com/Vigneshyadav001/retail-sales-performance-analysis/blob/main/Image.png
+<img width="203" height="391" alt="image" src="https://github.com/user-attachments/assets/63c4486e-3f83-41ce-9856-ccdb2a256a2d" />
 
-![Retail Sales Dashboard](images/Image2.png)
+
+<img width="203" height="391" alt="image" src="https://github.com/user-attachments/assets/bdf7c9cb-b6d6-46c6-9ef6-9d9708f329fe" />
+
 
 ## Project Files
 
